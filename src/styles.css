@@ -1,0 +1,47 @@
+body {
+  font-family: arial, sans-serif;
+}
+
+h1 {
+  color: rgb(190, 194, 200);
+  font-size: 14px;
+  font-weight: 700;
+  height: auto;
+  line-height: 22px;
+  margin: 0%;
+}
+
+ul {
+  margin: 0%;
+  padding: 0%;
+}
+li {
+  color: #9aa0a6;
+  font-size: 16px;
+  line-height: 20px;
+  list-style: none;
+}
+
+.Weather {
+  border-radius: 20px;
+  border: 1px solid #d1d6db;
+  margin: 20px auto;
+  padding: 15px;
+  max-width: 600px;
+}
+
+.temperature {
+  display: inline;
+  font-family: "Google Sans", arial, sans-serif;
+  font-size: 48px;
+  font-weight: 400;
+  height: auto;
+  letter-spacing: normal;
+  line-height: 56px;
+  width: auto;
+}
+
+.units {
+  position: relative;
+  top: -26px;
+}
